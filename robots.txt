@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Sitemap: http://www.chiptun-nadym.ga/sitemap.xml
 host: www.chiptun-nadym.ga
