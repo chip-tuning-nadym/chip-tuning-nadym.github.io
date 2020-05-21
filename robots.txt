@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: /price.pdf
 Sitemap: http://www.chiptun-nadym.ga/sitemap.xml
 host: www.chiptun-nadym.ga
